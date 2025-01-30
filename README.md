@@ -13,7 +13,7 @@ Hi! My name is Jenish Dabhi 😄
 
 ### Socials
 
-[![My Skills](https://skillicons.dev/icons?i=devto)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=devto)](https://dev.to/jenishdabhi)
 
 <div id="badges">
   <a href="https://in.linkedin.com/in/jenishdabhi03">
